@@ -11,22 +11,21 @@ To run the application locally:
 Clone the repository to your local machine:
 
 bash
-Copy code
 git clone https://github.com/adithor/password-manager.git
 Navigate into the project directory:
 
 bash
-Copy code
+
 cd password-manager
 Install required dependencies:
 
 bash
-Copy code
+
 # Ensure you have Python and pip installed
 pip install -r requirements.txt
 Run the application:
 
-Copy code
+
 python password_manager.py
 Usage
 Generating Passwords:
