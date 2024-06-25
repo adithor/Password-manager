@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your_username/password-manager.git
+git clone https://github.com/adithor/password-manager.git
 Navigate into the project directory:
 
 bash
